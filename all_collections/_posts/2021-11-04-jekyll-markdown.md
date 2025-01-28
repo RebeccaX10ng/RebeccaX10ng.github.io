@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jekyll Markdown
-date: 2021-11-04
-categories: ["jekyll"]
+title: What's in My Bag 2025
+date: 2025-1-28
+categories: ["Blog"]
 thumbnail: "assets/images/thumb1.png"
 ---
 
